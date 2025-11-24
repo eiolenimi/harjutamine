@@ -1,0 +1,2 @@
+# harjutamine
+versioonihalduse Github harjutamine
